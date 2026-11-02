@@ -1,0 +1,3 @@
+Portal de autogestión de turnos y consultas institucionales
+descripcion:
+Módulo de consulta de fechas de examen, estado de trámites y solicitud de turnos administrativos para la comunidad educativa.
